@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.illustro",
+  "appName": "illustro",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

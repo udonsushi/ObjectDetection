@@ -1,0 +1,7 @@
+{
+  "name": "illustro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
